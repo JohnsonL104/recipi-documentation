@@ -3,7 +3,7 @@
 Documentation Library for Senior Project
 
 |Assignment Week         |
-| ---------------------- |
+| :--------------------: |
 |[Week 1](https://github.com/JohnsonL104/recipi/blob/main/Documentation/Week1.md)|
 |[Week 2](https://github.com/JohnsonL104/recipi/blob/main/Documentation/Week2.md)|
 |[Week 3](https://github.com/JohnsonL104/recipi/blob/main/Documentation/Week3.md)|
